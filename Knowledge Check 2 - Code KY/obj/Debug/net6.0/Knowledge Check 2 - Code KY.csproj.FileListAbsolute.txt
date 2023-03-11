@@ -1,0 +1,15 @@
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\bin\Debug\net6.0\Knowledge Check 2 - Code KY.exe
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\bin\Debug\net6.0\Knowledge Check 2 - Code KY.deps.json
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\bin\Debug\net6.0\Knowledge Check 2 - Code KY.runtimeconfig.json
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\bin\Debug\net6.0\Knowledge Check 2 - Code KY.dll
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\bin\Debug\net6.0\Knowledge Check 2 - Code KY.pdb
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.csproj.AssemblyReference.cache
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.AssemblyInfoInputs.cache
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.AssemblyInfo.cs
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.csproj.CoreCompileInputs.cache
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.dll
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\refint\Knowledge Check 2 - Code KY.dll
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.pdb
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\Knowledge Check 2 - Code KY.genruntimeconfig.cache
+C:\Users\Samantha\Desktop\My Repo\Knowledge Check 2 - Code KY\Knowledge Check 2 - Code KY\obj\Debug\net6.0\ref\Knowledge Check 2 - Code KY.dll
